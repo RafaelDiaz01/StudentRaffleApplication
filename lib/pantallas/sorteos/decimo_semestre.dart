@@ -115,7 +115,7 @@ class _DecimoSemestreState extends State<DecimoSemestre> {
                   ),
                 ),
               ),
-              const SizedBox(width: 30),
+              const SizedBox(height: 30),
               SizedBox(
                 width: 200,
                 child: OutlinedButton.icon(

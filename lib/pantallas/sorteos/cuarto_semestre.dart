@@ -134,7 +134,7 @@ class _CuartoSemestreState extends State<CuartoSemestre> {
                   ),
                 ),
               ),
-              const SizedBox(width: 30),
+              const SizedBox(height: 30),
               SizedBox(
                 width: 200,
                 child: OutlinedButton.icon(
