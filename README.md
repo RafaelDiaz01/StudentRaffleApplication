@@ -57,12 +57,6 @@ Esta app permite seleccionar al azar a un ganador de un sorteo en cada semestre 
 
 ---
 
-## 🤝 Contribuciones  
-
-¡Siéntete libre de hacer un *fork* o enviar sugerencias! Este proyecto fue creado con fines educativos, pero cualquier mejora es bienvenida.  
-
----
-
 ## 📜 Licencia  
 
 Este proyecto está bajo la licencia **Universidad de la Sierra Juárez**.  
@@ -73,6 +67,3 @@ Este proyecto está bajo la licencia **Universidad de la Sierra Juárez**.
 © 2025 - [Kevin Rafael Díaz López](https://github.com/RafaelDiaz01)  
 
 --- 
-
-⭐ **¡Dale una estrella al repo si te gustó!** ⭐  
-
